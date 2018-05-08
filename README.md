@@ -1,6 +1,8 @@
 # SVM
 SVM
 
+After applying SVM to the Banking Dataset, The telecom dataset is also very interesting as the aim is to try and predict wheter a customer will leave a telecom operator based on cetain customer features. 
+
 The Telecom_train dataset.
 
 - Process the dataset (manage categorial variables, consider min_max processing)
